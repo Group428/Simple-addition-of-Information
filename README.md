@@ -1,2 +1,2 @@
 # Simple-addition-of-Information
-simple addition of information
+it is a simple student program to study the __Scanner__ and __ArrayList__
